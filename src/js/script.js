@@ -27,7 +27,7 @@ const insertDataIntoDom = (data) => {
       </div>
         
       <span class="card__id">ID: ${id}</span>
-      <p class="card__joke">${value}</p>
+      <p class="card__joke">${value} — Chuck Norris.</p>
       <p class="card__footer"> ${currentYear} — created by
         <a
         href="https://github.com/paulopbi/"
